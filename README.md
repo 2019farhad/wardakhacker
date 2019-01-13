@@ -16,7 +16,7 @@ pip2 install requests
 
 pkg install nano
 
-cd UnliSpam
+cd spampanggilan
 
 ls
 
