@@ -14,7 +14,7 @@ pkg install python2
 
 pip2 install requests
 
-pkg install vim
+pkg install nano
 
 cd UnliSpam
 
